@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/me_2022-0402-starcoding50-use_context-build/static/css/main.bb21501b.css",
+    "main.js": "/me_2022-0402-starcoding50-use_context-build/static/js/main.ee8b0197.js",
+    "index.html": "/me_2022-0402-starcoding50-use_context-build/index.html",
+    "main.bb21501b.css.map": "/me_2022-0402-starcoding50-use_context-build/static/css/main.bb21501b.css.map",
+    "main.ee8b0197.js.map": "/me_2022-0402-starcoding50-use_context-build/static/js/main.ee8b0197.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb21501b.css",
+    "static/js/main.ee8b0197.js"
+  ]
+}
